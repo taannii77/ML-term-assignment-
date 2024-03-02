@@ -1,5 +1,7 @@
 # ML-term-assignment-
 REVERSE IMAGE SEARCH USING IMAGE CAPTIONING
+
+
 GOAL
 To develop a reverse image search system using image captioning with PyTorch and Transformer, enhancing search accuracy and relevance.
 
